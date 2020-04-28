@@ -8,13 +8,13 @@
 
 
 import slider from './components/slider'
-
+//components: { VueperSlides, VueperSlide },
 
 export default {
   name: 'App',
   components: {
-
     slider
+    
   }
 }
 
